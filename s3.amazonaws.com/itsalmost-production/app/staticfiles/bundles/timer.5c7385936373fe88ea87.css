@@ -355,7 +355,7 @@ body {
 }
 
 .countdown-display {
-    background-image: url(/Em.gif);
+    background-image: url(Em.gif);
     background-position: 50%;
     background-size: cover;
     display: -webkit-box;
