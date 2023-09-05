@@ -1,0 +1,43 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * omnes-pro:
+ *   - http://typekit.com/eulas/00000000000000003b9b1e46
+ *   - http://typekit.com/eulas/00000000000000003b9b1e44
+ *   - http://typekit.com/eulas/00000000000000003b9b1e47
+ *   - http://typekit.com/eulas/00000000000000003b9b1e4a
+ *
+ * © 2009-2023 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2018-09-07 14:28:05 UTC"}*/
+
+@import url("../p.typekit.net/p9cbe.css?s=1&amp;k=mfg7yeo&amp;ht=tk&amp;f=7986.7992.7996.7998&amp;a=309439&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"omnes-pro";
+src:url("af/6e84fe/00000000000000003b9b1e46/27/l0b8e?subset_id=2&amp;fvd=n4&amp;v=3") format("woff2"),url("af/6e84fe/00000000000000003b9b1e46/27/d0b8e?subset_id=2&amp;fvd=n4&amp;v=3") format("woff"),url("af/6e84fe/00000000000000003b9b1e46/27/a0b8e?subset_id=2&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"omnes-pro";
+src:url("af/1e9639/00000000000000003b9b1e44/27/l6651?subset_id=2&amp;fvd=n3&amp;v=3") format("woff2"),url("af/1e9639/00000000000000003b9b1e44/27/d6651?subset_id=2&amp;fvd=n3&amp;v=3") format("woff"),url("af/1e9639/00000000000000003b9b1e44/27/a6651?subset_id=2&amp;fvd=n3&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"omnes-pro";
+src:url("af/d71088/00000000000000003b9b1e47/27/l7188?subset_id=2&amp;fvd=n5&amp;v=3") format("woff2"),url("af/d71088/00000000000000003b9b1e47/27/d7188?subset_id=2&amp;fvd=n5&amp;v=3") format("woff"),url("af/d71088/00000000000000003b9b1e47/27/a7188?subset_id=2&amp;fvd=n5&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"omnes-pro";
+src:url("af/7dffb4/00000000000000003b9b1e4a/27/le54d?subset_id=2&amp;fvd=n6&amp;v=3") format("woff2"),url("af/7dffb4/00000000000000003b9b1e4a/27/de54d?subset_id=2&amp;fvd=n6&amp;v=3") format("woff"),url("af/7dffb4/00000000000000003b9b1e4a/27/ae54d?subset_id=2&amp;fvd=n6&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+.tk-omnes-pro { font-family: "omnes-pro",sans-serif; }
